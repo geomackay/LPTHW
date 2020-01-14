@@ -18,3 +18,6 @@ If the programmer likes fonts and typography, he’ll tell you to get a Mac OSX 
 If he likes control and has a huge beard, he’ll tell you to install Linux. 
 Again, use whatever computer you have right now that works. 
 All you need is an editor, a Terminal, and Python."""
+
+# c:\Users\Xana\PycharmProjects\LPTHW
+# python ex13.py 1 2 3
